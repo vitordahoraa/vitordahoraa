@@ -2,8 +2,9 @@
 
 ## Here are somy of my star projects 🔭
 
-#Laravel ⚡
+# Laravel ⚡
 https://github.com/vitordahoraa/E-commerce
+
 https://github.com/vitordahoraa/ProductCatalog
 
 # Python ⚡

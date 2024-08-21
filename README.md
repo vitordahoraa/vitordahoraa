@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome to my git portfolio 😄
+
+## Here are somy of my star projects 🔭
+
+#Laravel ⚡
+https://github.com/vitordahoraa/E-commerce
+https://github.com/vitordahoraa/ProductCatalog
+
+# Python ⚡
+https://github.com/vitordahoraa/BetFairRouletteBot
 
 <!--
 **vitordahoraa/vitordahoraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

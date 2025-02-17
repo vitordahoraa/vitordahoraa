@@ -16,6 +16,8 @@
   An automated betting bot for BetFair Roulette, leveraging Python for real-time analysis and betting strategies.
 
 Feel free to explore these projects, and don't hesitate to reach out if you have any questions or feedback. Happy coding! 🚀
+
+Right now, I'm a FullStack Elixir Developer!!!
 <!--
 **vitordahoraa/vitordahoraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
